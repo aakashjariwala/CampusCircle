@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="frontend/src/assets/CampusCircle%20Logo%20White.png" alt="CampusCircle Logo" width="300"/>
+</p>
+
 # CampusCircle
 
 A full-stack web application designed to facilitate campus social engagement by enabling users to connect, post updates, and participate in campus communities.
